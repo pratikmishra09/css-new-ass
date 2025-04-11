@@ -1,0 +1,39 @@
+#new{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    
+}
+#new div{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 100px;
+    padding: 3px;
+    margin: 3px;
+    
+
+}
+#first1{
+    background-color: rgb(175, 5, 5);
+   
+}
+#Second2{
+    background-color: yellow;
+}
+#third3{
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
